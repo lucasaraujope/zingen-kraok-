@@ -11,7 +11,7 @@ a.social{
     
     &[aria-label="tiktok"]{
         background-repeat: no-repeat;
-        
+        background-size: cover;
         --bg-image: url(../Assets/icons/tiktok.svg);
     
         &:hover{
