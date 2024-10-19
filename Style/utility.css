@@ -32,6 +32,18 @@
     gap: 1rem;
 }
 
+.gap-1\.5{
+    gap: 1.5rem;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.jutific-center{
+    justify-content: center;
+}
+
 .grid{
     display: grid;
 }

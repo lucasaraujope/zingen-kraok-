@@ -1,0 +1,9 @@
+header {
+  & a:first-child {
+    margin-right: auto;
+  }
+
+  & a{
+    color: var(--text-color-primary);
+  }
+}
