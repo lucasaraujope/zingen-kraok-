@@ -51,6 +51,7 @@
 .container {
     --max-width: 23.4375rem;
     width: min(var(--max-width), 100% - var(--px-lg) * 2);
+    margin: auto;
 }
 
 @media (width >= 80em){
