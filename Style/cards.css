@@ -10,4 +10,8 @@
     & p{
         margin-top: .5rem;
     }
+
+    &:nth-child(1){
+        padding: 3rem;
+    }
 }
