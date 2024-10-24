@@ -5,7 +5,7 @@ footer{
         list-style: none;
     }
 
-    & .container, & .top{
+    & .container{
         gap: 3rem;
         padding-inline: 3rem;
     } 
